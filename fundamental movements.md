@@ -39,7 +39,7 @@
 
 ### Queixada
 
-![alt-text](images\queixada_example.gif)
+![alt-text](queixada_example.gif)
 
 **逐步解析 （右腿踢）**
 - ginga起势，左腿在后右腿在前
@@ -93,7 +93,7 @@
 
 ### Ponteira
 
-![alt-text](images\ponteira.gif)
+![alt-text](ponteira.gif)
 
 攻击性较强的动作，通常在竞技性强的game中出现，**谨慎使用**
 
@@ -110,13 +110,13 @@
 
 ### Esquiva
 
-![alt-text](images\esquiva.gif)
+![alt-text](esquiva.gif)
 
 - 将头和身体顺着攻击的方向倾斜
 
 ### Cocorinha
 
-![alt-text](images\cocorinha.gif)
+![alt-text](cocorinha.gif)
 
 - 顺着攻击的方向用肘保护头部，并深蹲
 - cocorinha之后可以流畅的接高踢或接下一个低位动作
@@ -124,7 +124,7 @@
 
 ### Negativa
 
-![alt-text](images\negativa.gif)
+![alt-text](negativa.gif)
 
 Negativa是最基础的地面动作之一，一般用来躲避对胸/头部的攻击，也对后续动作进行连接（接别的Esquivas, Role，Au等地面动作）。
 - 臀部以一只脚的脚跟为支点蹲下
@@ -133,7 +133,7 @@ Negativa是最基础的地面动作之一，一般用来躲避对胸/头部的�
 
 ### Role
 
-![alt-text](images\role.gif)
+![alt-text](role.gif)
 
 - 类似于Au，双手支地，双腿从一侧贴地扫到另一侧
 - Role可以帮助躲避一个攻击，并为下一个动作做足准备，常在Esquiva之后做出，在Roda中移动到下一个点位
@@ -142,21 +142,21 @@ Negativa是最基础的地面动作之一，一般用来躲避对胸/头部的�
 
 ### Esquiva Baixa
 
-![alt-text](images\esquiva_baixa.gif)
+![alt-text](esquiva_baixa.gif)
 
 又名Esquiva de Frente，看起来像是一个贴近地面的Ginga
 - 身体前倾，后腿向后延展，使身体重心放在前面弯曲的腿上
 
 ### Esquiva de Lado
 
-![alt-text](images\esquiva_de_lado.gif)
+![alt-text](esquiva_de_lado.gif)
 
 - 将身体转向侧面以躲避攻击，双腿平行，呈深蹲姿态，前臂护住面部
 - 通常也是queixada的准备动作
 
 ### Negativa de Angola
 
-![alt-text](images\negativa_de_angola.gif)
+![alt-text](negativa_de_angola.gif)
 
 越贴近地面越好，用来躲避低的攻击
 - 将双手支撑地面，与腿垂直
@@ -164,20 +164,20 @@ Negativa是最基础的地面动作之一，一般用来躲避对胸/头部的�
 
 ### Negativa da Regional / Negativa de Bimba
 
-![alt-text](images\negativa_da_regional.gif)
+![alt-text](negativa_da_regional.gif)
 
 Mestre Bimba常用的动作，这个动作的第一个目的是为了躲避从正面来的攻击（如Bencao），第二个目的是为了用另一只脚扫向对手，使其倒地
 
 ### Queda de Quatro
 
-![alt-text](images\queda_de_quatro.gif)
+![alt-text](queda_de_quatro.gif)
 
 - 螃蟹步，这个动作用在地面动作衔接，或倒地时
 - 双膝向内收，脚距与肩同宽
 
 ### Passo a Frente
 
-![alt-text](images\passo_a_frente.gif)
+![alt-text](passo_a_frente.gif)
 
 用来应对突入而来的迎面攻击
 - 向前一小步，微曲双膝，收紧核心，身体向后倒向一侧
@@ -185,7 +185,7 @@ Mestre Bimba常用的动作，这个动作的第一个目的是为了躲避从�
 
 ### Vale Meu Deus
 
-![alt-text](images\vale_meu_deus.gif)
+![alt-text](vale_meu_deus.gif)
 
 这个动作可用来躲避紧急的攻击，并与对手保持近的距离
 - 如攻击从左边到来，朝攻击到来的方向伸出右腿，脚落在对手附近
